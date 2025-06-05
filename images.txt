@@ -8,5 +8,5 @@
 # valkey/valkey:8
 # infiniflow/ragflow:v0.16.0-slim
 # infiniflow/infinity:v0.6.0-dev3
-python:3.12-slim
-
+# python:3.12-slim
+ubuntu:20.04
