@@ -1,5 +1,5 @@
 # nvidia/cuda:12.1.0-cudnn8-devel-ubuntu20.04
-# ollama/ollama
+ollama/ollama
 # infiniflow/ragflow:v0.15.1-slim
 # infiniflow/infinity:v0.6.0-dev2
 # docker.elastic.co/elasticsearch/elasticsearch:8.11.3
